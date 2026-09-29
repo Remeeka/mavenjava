@@ -1,9 +1,5 @@
 
 
-Shanmugapriya P <shanmugapriya@psgitech.ac.in>
-4:00 PM (0 minutes ago)
-to me
-
 pipeline {
     agent any
 
